@@ -1,5 +1,5 @@
 # Euromillioner
-Lottery numbers prediction application using Java 8, Jsoup and Apache Spark
+Lottery numbers prediction application (Java 8, Jsoup, Apache Spark)
 
 ## Requirements
 * Application must be able to predict the *Euromillion* lottery results accurately **(0.9+)**
